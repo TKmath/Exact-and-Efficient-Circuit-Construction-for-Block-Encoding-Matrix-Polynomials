@@ -1,4 +1,4 @@
-# [Exact and Efficient Circuit Construction for Block Encoding Matrix Polynomials]
+# Exact and Efficient Circuit Construction for Block Encoding Matrix Polynomials
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.15161-b31b1b.svg)](https://arxiv.org/abs/2608.15161)
 
